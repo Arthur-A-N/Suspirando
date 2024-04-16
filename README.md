@@ -1,2 +1,24 @@
-# Suspirando
-web site Proficional para divulgar serviços de venda de bolo, facilitar o contato do cliente com o provedor de serviço e apresentar os produtos a venda.
+# hello-world
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
